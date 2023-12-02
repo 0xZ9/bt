@@ -1,0 +1,11 @@
+chain = "arbitrum"
+source = "rpc"
+pool_address = "0xc31e54c7a869b9fcbecc14363cf510d1c41fa443"
+save_path = "./data"
+
+
+[rpc]
+end_point = "https://nd-013-553-376.p2pify.com/838dc94529992cd02019138542fee678"
+start_height = 100909  # start height
+end_height = 99393670 # end height
+batch_size = 1500 # query 1500 blocks each time, if the pool is busy, decrease this number.

@@ -1,0 +1,4 @@
+matplotlib~=3.7.1
+web3~=6.6.1
+zelos-demeter @ git+https://github.com/zelos-alpha/demeter@v0.2.3
+orjson~=3.9.1
